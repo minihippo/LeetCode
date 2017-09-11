@@ -1,7 +1,7 @@
 # LeetCode
 The reposity is for recording submissions in LeetCode. Programing language is java and Scala. 
 
-Updating $\dots$
+Updating...
 
 ### Array
 
