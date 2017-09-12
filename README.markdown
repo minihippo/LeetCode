@@ -13,3 +13,5 @@ Updating...
 
 2. Remove Duplicates From Sorted Array
 3. Remove Element
+4. Search Insert Position 
+   * two pointers *
