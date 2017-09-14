@@ -17,5 +17,7 @@ Updating...
 
    * two pointers
 5. Maximum Subarray
+6. Plus One
+   * immutable array of integer will be intialized with 0
 
 ...
