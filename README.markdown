@@ -19,5 +19,6 @@ Updating...
 5. Maximum Subarray
 6. Plus One
    * immutable array of integer will be intialized with 0
+7. Merge Sorted Array
 
 ...
