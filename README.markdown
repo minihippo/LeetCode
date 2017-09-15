@@ -20,5 +20,7 @@ Updating...
 6. Plus One
    * immutable array of integer will be intialized with 0
 7. Merge Sorted Array
+8. Pascal's Triangle
+   *scala: unaccepted* maybe linkedlist is the type to solve the problem
 
 ...
