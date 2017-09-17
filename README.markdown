@@ -21,9 +21,13 @@ Updating...
 7. Merge Sorted Array
 8. Pascal's Triangle
    *scala: unaccepted* maybe linkedlist is the type to solve the problem
+9. Pascal's Triangle
+   *scala:unaccepted*
 
 
 ###### *tag medium*
 1. Container With Most Water
    * Math.max/min runtime seems slower than direct comparison 
+
+
 ...
