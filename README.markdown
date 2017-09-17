@@ -14,7 +14,6 @@ Updating...
 2. Remove Duplicates From Sorted Array
 3. Remove Element
 4. Search Insert Position 
-
    * two pointers
 5. Maximum Subarray
 6. Plus One
@@ -23,4 +22,8 @@ Updating...
 8. Pascal's Triangle
    *scala: unaccepted* maybe linkedlist is the type to solve the problem
 
+
+###### *tag medium*
+1. Container With Most Water
+   * Math.max/min runtime seems slower than direct comparison 
 ...
