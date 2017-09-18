@@ -16,13 +16,15 @@ Updating...
 4. Search Insert Position 
    * two pointers
 5. Maximum Subarray
-6. Plus One
+6. Plus One  
    * immutable array of integer will be intialized with 0
 7. Merge Sorted Array
 8. Pascal's Triangle  
-   *scala: unaccepted* maybe linkedlist is the type to solve the problem
-9. Pascal's Triangle  
-   *scala:unaccepted*
+   *scala: unaccepted* maybe linkedlist is the type to solve the problem  
+9. Pascal's Triangle2   
+   *scala:unaccepted*  
+10. Best Time to Buy and Sell Stock  
+    * Kadane's Algorithm: maximum subarray problem  
 
 
 ###### *tag medium*
