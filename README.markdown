@@ -27,6 +27,10 @@ Updating...
     * Kadane's Algorithm: maximum subarray problem  
 11. Best Time to Buy and Sell Stock2
     * greedy algorithm is slower than the other solution  
+12. Two Sum2  
+    * two pointers  
+    * binary search : O(logn),defeat 99%  
+
 
 
 ###### *tag medium*
