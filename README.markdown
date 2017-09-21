@@ -30,7 +30,7 @@ Updating...
 12. Two Sum2  
     * two pointers  
     * binary search : O(logn),defeat 99%  
-
+13. Majority Element  
 
 
 ###### *tag medium*
