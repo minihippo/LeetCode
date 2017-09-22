@@ -33,7 +33,7 @@ Updating...
     * for extension: icebrug, element appears more than k times 
 14. Submission Detail  
     *bad solution*  
-    *I consider that queue is the best data struct to solve the problem  
+    *I consider that queue is the best data structure to solve the problem  
 
 
 
