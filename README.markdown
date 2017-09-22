@@ -31,9 +31,9 @@ Updating...
 13. Majority Element 
     * Mroove voting Algorithm  
     * for extension: icebrug, element appears more than k times 
-14. Submission Detail  
+14. Submission Detail   
     *bad solution*  
-    *I consider that queue is the best data structure to solve the problem  
+    * I consider that queue is the best data structure to solve the problem  
 
 
 
