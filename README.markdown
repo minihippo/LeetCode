@@ -8,9 +8,7 @@ Updating...
 ###### *tag easy*
 
 1. TwoSum
-
    `map.containsKey()`
-
 2. Remove Duplicates From Sorted Array
 3. Remove Element
 4. Search Insert Position 
@@ -30,7 +28,9 @@ Updating...
 12. Two Sum2  
     * two pointers  
     * binary search : O(logn),defeat 99%  
-13. Majority Element  
+13. Majority Element 
+    * Mroove voting Algorithm  
+    * for extension: icebrug, element appears more than k times 
 
 
 ###### *tag medium*
@@ -38,4 +38,4 @@ Updating...
    * Math.max/min runtime seems slower than direct comparison 
 
 
-...
+
