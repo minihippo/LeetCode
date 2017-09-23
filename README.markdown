@@ -34,7 +34,9 @@ Updating...
 14. Submission Detail   
     *bad solution*  
     * I consider that queue is the best data structure to solve the problem  
-
+15. Contains Duplicate  
+    *scala:unaccepted*  
+    *  byte array: most fast  
 
 
 
