@@ -37,7 +37,9 @@ Updating...
 15. Contains Duplicate  
     *scala:unaccepted*  
     *  byte array: most fast  
-
+16. Contains Duplicate  
+    *scala:unaccepted*  
+    * set and sliding window
 
 
 ###### *tag medium*
