@@ -44,6 +44,9 @@ Updating...
 16. Contains Duplicate  
     *scala:unaccepted*  
     * set and sliding window
+17. Move Zeroes  
+    * two pointers  
+    * while is faster than for loop  
 
 
 ###### *tag medium*
