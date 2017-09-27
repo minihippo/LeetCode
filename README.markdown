@@ -47,6 +47,10 @@ Updating...
 17. Move Zeroes  
     * two pointers  
     * while is faster than for loop  
+18. Third Maximum Number  
+    * the normal way O(logn)  
+    * priority queue: O(nlogn)  
+
 
 
 ###### *tag medium*
