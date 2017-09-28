@@ -50,7 +50,8 @@ Updating...
 18. Third Maximum Number  
     * the normal way O(logn)  
     * priority queue: O(nlogn)  
-
+19. Find All Numbers Disappeared in an Array  
+    *scala:unaccepted*      
 
 
 ###### *tag medium*
