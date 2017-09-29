@@ -52,7 +52,8 @@ Updating...
     * priority queue: O(nlogn)  
 19. Find All Numbers Disappeared in an Array  
     *scala:unaccepted*      
-
+20. Max Consecutive Ones  
+    * concise way has long runtime  
 
 ###### *tag medium*
 1. Container With Most Water  
