@@ -54,6 +54,10 @@ Updating...
     *scala:unaccepted*      
 20. Max Consecutive Ones  
     * concise way has long runtime  
+21. K-diff pairs in an Array
+    * sort then two pointers
+    * map: map.entry map.keySet()
+
 
 ###### *tag medium*
 1. Container With Most Water  
