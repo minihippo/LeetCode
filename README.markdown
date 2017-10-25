@@ -57,7 +57,9 @@ Updating...
 21. K-diff pairs in an Array
     * sort then two pointers
     * map: map.entry map.keySet()
-
+22. Array Partition
+    * sort then ... nlogn
+    * bucket sort, n. beats 98.97%. faster
 
 ###### *tag medium*
 1. Container With Most Water  
