@@ -60,6 +60,8 @@ Updating...
 22. Array Partition
     * sort then ... nlogn
     * bucket sort, n. beats 98.97%. faster
+23. Reshape the Matrix
+    * common way
 
 ###### *tag medium*
 1. Container With Most Water  
